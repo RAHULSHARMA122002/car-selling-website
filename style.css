@@ -1,0 +1,29 @@
+ nAv{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+ }  
+    
+
+a{
+    color:white;
+    text-decoration: none;
+    margin: 100px;
+}
+
+img{
+    height: 200px;
+    border-radius: 25px;
+  
+}
+.row{
+    margin: 30px 50px 100px 10px;
+}
+.tt{
+    float: right;
+}
+.vid{
+    
+    width:100%;
+     background-color: blanchedalmond;
+}
